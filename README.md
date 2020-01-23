@@ -8,3 +8,4 @@ John O'Hara
 
 ## Formal Assignment
 
+1. Annotated Bibliograpghy 
