@@ -30,5 +30,5 @@ What are the ways fowarded?
 
 Human Development 
 
-Humann development is the growth of oppurtunities and allowing for a better well-being.
+Human development is the growth of oppurtunities and allowing for a better well-being. 
  
