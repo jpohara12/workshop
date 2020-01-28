@@ -6,10 +6,14 @@ John O'Hara
 
 1. [Blumenstock Response](https://github.com/jpohara12/workshop/blob/master/blumenstock.md) (Jan.28)
 
-## Projects
+## Project
 
 1.
 
 ## Formal Assignment
 
 1. Annotated Bibliograpghy 
+  -Problem Statement 
+  -Selected LMIC or Region
+  -Dimesion of Human Development 
+2. Literature Review 
