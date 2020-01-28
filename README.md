@@ -14,6 +14,10 @@ John O'Hara
 
 1. Annotated Bibliograpghy 
   -Problem Statement 
+    -Harms
+    -Significance of those harms
+    -Inherenet nature of the problem
   -Selected LMIC or Region
   -Dimesion of Human Development 
+  
 2. Literature Review 
