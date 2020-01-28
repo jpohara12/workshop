@@ -16,7 +16,7 @@ What are the ways fowarded?
 
   The ways foward are that of looking for ways to fix the pitfalls. This includes finding ways to be able to validate data collected instead of getting to far ahead of themselves in this data collection and data analzye.  Such as taking in more variables that could peoples resouorces that allow for data collection or how transparnt these studies are.  Another way foward is that of not being to intriguted by the profit and greed coming along with these innovations, and to be more focused on learning more about these probelems and  context of the sitaution better. 
   
- Intent, Transparency, and balanceing act
+ Intent, Transparency, and Balancing act
  
  The idea of data science to promote human development is such a promising idea yet, there are many problems that arise from it.  The intent of a data scientist trying to anazlye a situation is most likely for the gains of others but you have to think of how this process may affect others. How do we determine who is really most in need? Transparency is also a huge issue that could be resolved.  Everyone is concerned about how ones data may be used agaisnt them and/or invade their privacy and not how it may help them. This beign a problem with how theres not clear communication of how data is being used to inform people.  This is vice versa though.  As promising as data science is in this cause, there still needs to be human interaction and informed information about needs. 
  
@@ -30,5 +30,5 @@ What are the ways fowarded?
 
 Human Development 
 
-Humann development is the growth of oppurtunities and allowing for a better well-being
+Humann development is the growth of oppurtunities and allowing for a better well-being.
  
