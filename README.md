@@ -6,7 +6,6 @@ John O'Hara
 
 1. [Blumenstock Response](https://jpohara12.github.io/workshop/blumenstock.md/) (Jan.28)
 
-https://jpohara12.github.io/workshop/blumenstock.md/
 
 
 ## Project
