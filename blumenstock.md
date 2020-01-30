@@ -3,9 +3,9 @@
 
 #### January 28th, 2020
 
-[Prompt] (https://www.nature.com/magazine-assets/d41586-018-06215-5/d41586-018-06215-5.pdf)
+[Prompt](https://www.nature.com/magazine-assets/d41586-018-06215-5/d41586-018-06215-5.pdf)
 
-[Reading] (https://www.nature.com/magazine-assets/d41586-018-06215-5/d41586-018-06215-5.pdf)
+[Reading](https://www.nature.com/magazine-assets/d41586-018-06215-5/d41586-018-06215-5.pdf)
 
 
 
