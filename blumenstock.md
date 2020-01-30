@@ -1,5 +1,6 @@
 # Blumenstock Response 
 John O'Hara
+
 January 28th, 2020
 
 
@@ -28,7 +29,7 @@ January 28th, 2020
  
  Machine learning is that machines use algorithmas and statisitical models to peform task without explicitied insturuction and having to make infrences. 
 
-Human Development 
+### Human Development 
 
 Human development is the growth of oppurtunities and allowing for a better well-being. 
  
