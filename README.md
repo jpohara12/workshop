@@ -4,7 +4,10 @@ John O'Hara
 
 ## Informal responses 
 
-1. [Blumenstock Response](https://github.com/jpohara12/workshop/blob/master/blumenstock.md) (Jan.28)
+1. [Blumenstock Response](https://jpohara12.github.io/workshop/blumenstock.md/) (Jan.28)
+
+https://jpohara12.github.io/workshop/blumenstock.md/
+
 
 ## Project
 
