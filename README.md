@@ -6,7 +6,7 @@ John O'Hara
 
 1. [Blumenstock Response](https://jpohara12.github.io/workshop/blumenstock) (Jan.28)
 
-2. [Jahan / Rosling Response]
+2. [Jahan / Rosling Response](https://jpohara12.github.io/workshop/Jahan)
 
 
 ## Project
