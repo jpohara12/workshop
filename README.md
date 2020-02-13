@@ -15,8 +15,8 @@ John O'Hara
 
 ## Formal Assignment
 
-1. Annotated Bibliograpghy 
-  - Problem Statement 
+1. [Annotated Bibliograpghy](https://jpohara12.gihub.io/workshop/Annotated_Bibliography/) 
+- Problem Statement 
     - Harms
     - Significance of those harms
     - Inherenet nature of the problem
