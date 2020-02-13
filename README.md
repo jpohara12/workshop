@@ -15,7 +15,7 @@ John O'Hara
 
 ## Formal Assignment
 
-1. [Annotated Bibliograpghy](https://jpohara12.gihub.io/workshop/Annotated_Bibliography/) 
+1. [Annotated Bibliograpghy] 
 - Problem Statement 
     - Harms
     - Significance of those harms
