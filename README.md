@@ -21,10 +21,10 @@ John O'Hara
     - Significance of those harms
     - Inherenet nature of the problem
     
-  - Selected LMIC or Region
+  - Sub-Saharan Africa 
   
   
-  - Dimesion of Human Development 
+  - Precision Epidemiology and disease burdern estimation
   
   
 2. Literature Review 
