@@ -21,10 +21,9 @@ Dwyer-Lindgren, L., Cork, M.A., Sligar, A. *et al.* Mapping HIV prevalence in su
 ​      The data map series reveal a huge discrepancy. The more developed southern countries, such as South Africa show an extremely high prevalence of HIV. While countries that as less developed such as Democratic Republic of the Congo show a low prevalence of HIV. This could be attributed to the lack of available and accurate data collected within these countries.  The researchers did a good job of including an uncertainty map to show where lack of information may occur. This could be added to with my research because it shows how they can be shortages of information on both data gathered on the ground and how it can lead to misinformation.  
 
 
+Boyda, D. C., Holzman, S. B., Berman, A., Grabowski, M. K., & Chang, L. W. (2019). Geographic Information Systems, spatial analysis, and HIV in Africa: A scoping review. *PloS one*, *14*(5), e0216388. https://doi.org/10.1371/journal.pone.0216388
 
- Boyda, D. C., Holzman, S. B., Berman, A., Grabowski, M. K., & Chang, L. W. (2019). Geographic Information Systems, spatial analysis, and HIV in Africa: A scoping review. *PloS one*, *14*(5), e0216388. https://doi.org/10.1371/journal.pone.0216388
-
-Sub-Saharan Africa is home to the majority of HIV cases.  This is due to the lack of healthcare, contraceptives, and availability to treatment.  This looks article looks to fulfill The Sustainable Development Goal 3 also by promoting health with the goal of finding ways to ease the process of dispersion of health services.  In a study to figure out the extent of the use of GIS and spatial analysis, researchers went through and looked at all the articles posted about the use of HIV.  As GIS is new tool that is quickly being implemented to be able to solve problems. 
+ Sub-Saharan Africa is home to the majority of HIV cases.  This is due to the lack of healthcare, contraceptives, and availability to treatment.  This looks article looks to fulfill The Sustainable Development Goal 3 also by promoting health with the goal of finding ways to ease the process of dispersion of health services.  In a study to figure out the extent of the use of GIS and spatial analysis, researchers went through and looked at all the articles posted about the use of HIV.  As GIS is new tool that is quickly being implemented to be able to solve problems. 
 
 **Quote:**  "Geographic Information Systems (GIS) and spatial analysis are emerging tools for global health, but it is unclear to what extent they have been applied to HIV research in Africa."  
 
@@ -38,7 +37,6 @@ This quote can be used to show how GIS tools allow for presenting the data in a 
 
 GIS data has been used for 3 main reasons,  thus for characterizing geographic distribution of HIV, evaluating HIV epidemiologic risk factors, and assessing and improving implementation.  The use of GIS for looking at the distribution of HIV is an example of how GIS is able to help show the burden of disease across geographic locations.  It also is able to be used for precision epidemiology as it can be used for looking at risk factors, as well providing better information on implementing HIV services and resources in critical locations.   Using data that is already available and then using processing like top-down, or bottom-up processing with machine learning allows for easier, faster, and cost effective way to combat HIV and other epidemics. 
 
-​      
 
 Cuadros, D.F., Li, J., Branscum, A.J. *et al.* Mapping the spatial variability of HIV infection in Sub-Saharan Africa: Effective information for localized HIV prevention and control. *Sci Rep* **7,** 9093 (2017). https://doi.org/10.1038/s41598-017-09464-y
 
@@ -53,7 +51,6 @@ They are using information from the DHS from Kenya, Malawi, Mozambique, and Tanz
 Using the different variables including in the data gathered through surveys and the DHS data, they computed model maps of the prevalence of HIV in the three countries.  The models allowed for a rich and complex geographical variation of the HIV epidemic in each country.  This is returned allowed for an easier analysis of the datasets provided to them.   It could be seen in the areas where they were higher population density that HIV prevalence was also higher compared to lower population dense areas.  These areas of high prevalence cluster are referred to as hot spots.  Through the research it was found that the high-prevalence areas were skewed and supported very high prevalence values.   
 
 Even though this maps produced between geospatial data being combined with machine learning with datasets allows for good models of the HIV epidemic, there are a lot of unknowns.  The data that they collect is limited due to the limitation.  Higher at risk population such as female sex workers, drug users, and homosexual men could have been missed by the surveys. 
-
 
 
 Kalipeni, E., & Zulu, L. (2008). Using GIS to Model and Forecast HIV/AIDS Rates in Africa, 1986-2010. *Professional Geographer*, *60*(1), 33–53. https://doi.org/10.1080/00330120701724061
@@ -71,6 +68,7 @@ The article also mentions the use of GIS and Datasets for HIV to be used with ca
 Even sources that are of higher quality still sometimes do not provided the full picture.  Given a Statistic from a sample compared to a parameter means you need to look at what the sample is actually measuring.  As data in countries such as Sub-Saharan Africa region being less developed with less government collected data makes  it hard to have an accurate estimation of the burden of HIV.  This can be used in my research to show the yellow tape that is there is with trusting in datasets and with machine learning.   Also touches back to the idea of a humbler data science.  Human development needs to also get feet on the ground to allow for more accurate data to be used in the process.  This can be used in my problem statement to help show how this is a problem in the use of data science on battling HIV. 
 
 In this research they used both raster and vector maps to display data in an easier procedure.   They also compare to major processing techniques.  (1) The Inverse Distanced Weighted Algorithm (IDW), with projects more influence on areas closer to it compared to areas that are farther in distance.  (2) is the Kriging method which instead uses mathematical models based on distance decay to predict unmeasured areas.  The IDW showed better predictive power then the kriging method.  Could use this information in my research to show the algorithm that are used to generate results with such data. 
+
 
 Linard, C., Tatem, A.J. Large-scale spatial population databases in infectious disease research. *Int J Health Geogr* **11,** 7 (2012). https://doi.org/10.1186/1476-072X-11-7
 
