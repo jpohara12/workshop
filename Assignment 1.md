@@ -8,7 +8,7 @@ February 12, 2020
 
 #### Problem Statement 
 
-Lack of data in low income and developing countries in Sub-Sahara Africa, can create problems with the allocation of resources to fight diseases such as HIV.  HIV 
+Lack of data in low income and developing countries in Sub-Sahara Africa, can create problems with the allocation of resources to fight diseases such as HIV.  
 
 #### Annotated Bibliography 
 
