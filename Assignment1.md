@@ -44,11 +44,11 @@ GIS data has been used for 3 main reasons,  thus for characterizing geographic d
 
 Cuadros, D.F., Li, J., Branscum, A.J. *et al.* Mapping the spatial variability of HIV infection in Sub-Saharan Africa: Effective information for localized HIV prevention and control. *Sci Rep* **7,** 9093 (2017). https://doi.org/10.1038/s41598-017-09464-y
 
- **Quote: **"Under the premise that in a resource-constrained environment such as Sub-Saharan Africa it is not possible to do everything, to everyone, everywhere, detailed geographical knowledge about the HIV epidemic becomes essential to tailor programmatic responses to specific local needs." (Cuadros et.al, 2017)
+ **Quote:** "Under the premise that in a resource-constrained environment such as Sub-Saharan Africa it is not possible to do everything, to everyone, everywhere, detailed geographical knowledge about the HIV epidemic becomes essential to tailor programmatic responses to specific local needs." (Cuadros et.al, 2017)
 
 The quote mentions how Sub-Saharan Africa is a resource constrained area.  Those mentioning how most of it is not developing or in the process of developing.  With the states that a lot of the countries are in right now, it makes it hard for government or researchers to gather information in a uniform fashion.  Thus showing how much they have to rely on geospatial data and bottom-up processing to be able to fill gaps that they are missing.  This can be used to show how data science and machine learning are necessary for this process of development. 
 
-**Quote: **"The main source of data for our study was the Demographic and Health Survey (DHS). We focused our evaluation to countries located at the eastern part of SSA, where the prevalence of HIV is high and there is substantial spatial variability of HIV prevalence within countries"(Cuadros et.al, 2017)
+**Quote:** "The main source of data for our study was the Demographic and Health Survey (DHS). We focused our evaluation to countries located at the eastern part of SSA, where the prevalence of HIV is high and there is substantial spatial variability of HIV prevalence within countries"(Cuadros et.al, 2017)
 
 They are using information from the DHS from Kenya, Malawi, Mozambique, and Tanzania. With all but Kenya named as a low-income country.  Among these countries researchers looked at different information form the surveys that included socioeconomic status, demographics, and biological variables that showed spatial distribution of HIV.
 
@@ -60,7 +60,7 @@ Even though this maps produced between geospatial data being combined with machi
 
 Kalipeni, E., & Zulu, L. (2008). Using GIS to Model and Forecast HIV/AIDS Rates in Africa, 1986-2010. *Professional Geographer*, *60*(1), 33–53. https://doi.org/10.1080/00330120701724061
 
-**Quote: **"In this article we draw on the power of geographic information systems (GIS) to examine the progression of HIV/AIDS in Africa for the period from 1986 to 2003. We use GIS for two purposes: (1) to transform and interpolate a set of annual point-based HIV/AIDS rates into area data; and (2) to extract or “mine” annual HIV/AIDS prevalence rates from the interpolated area (country) level maps. Once the rates are extracted from the GIS analysis we then model and forecast them into the near future (i.e., 2004–2010) by using the UNAIDS Estimation and Projection Package (EPP) software" (Kalipeni et al., 2008)
+**Quote:** "In this article we draw on the power of geographic information systems (GIS) to examine the progression of HIV/AIDS in Africa for the period from 1986 to 2003. We use GIS for two purposes: (1) to transform and interpolate a set of annual point-based HIV/AIDS rates into area data; and (2) to extract or “mine” annual HIV/AIDS prevalence rates from the interpolated area (country) level maps. Once the rates are extracted from the GIS analysis we then model and forecast them into the near future (i.e., 2004–2010) by using the UNAIDS Estimation and Projection Package (EPP) software" (Kalipeni et al., 2008)
 
 Researchers use this software called Estimation and Projection Package (EPP) to be able to look at data and incomplete data.  The software allows for a forecast of in a geospatial wat to be able to look at how HIV distribution will look in the future. 
 
@@ -68,7 +68,7 @@ Using this data for the purpose of meeting the sustainable development goal 3,  
 
 The article also mentions the use of GIS and Datasets for HIV to be used with caution.  Caution because of the limitation that the data may actually cover.  This considered in the following quote. 
 
-**Quote: **"Thus if 500 pregnant women visiting a clinic in a given year were tested for HIV and 150 of them tested positive for the virus, the rate for all adults attending that clinic would be recorded as 30 percent"(Kalipeni et al., 2008)
+**Quote:** "Thus if 500 pregnant women visiting a clinic in a given year were tested for HIV and 150 of them tested positive for the virus, the rate for all adults attending that clinic would be recorded as 30 percent"(Kalipeni et al., 2008)
 
 Even sources that are of higher quality still sometimes do not provided the full picture.  Given a Statistic from a sample compared to a parameter means you need to look at what the sample is actually measuring.  As data in countries such as Sub-Saharan Africa region being less developed with less government collected data makes  it hard to have an accurate estimation of the burden of HIV.  This can be used in my research to show the yellow tape that is there is with trusting in datasets and with machine learning.   Also touches back to the idea of a humbler data science.  Human development needs to also get feet on the ground to allow for more accurate data to be used in the process.  This can be used in my problem statement to help show how this is a problem in the use of data science on battling HIV. 
 
