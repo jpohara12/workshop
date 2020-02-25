@@ -86,6 +86,8 @@ In this research they used both raster and vector maps to display data in an eas
 
 Linard, C., Tatem, A.J. Large-scale spatial population databases in infectious disease research. *Int J Health Geogr* **11,** 7 (2012). https://doi.org/10.1186/1476-072X-11-7
 
+Source with data on the outdated dataset 
+
 In the Journal Article they look at how the use of geospatial software is reliant on the data that is fed to it.  Their a lot of problems that arrive from this such as many things.
 
 **Quote** "Demographic data come from different sources: censuses, civil registration systems, governmental or non-governmental administrative data or sample surveys. Civil registration systems provide the most reliable and useful demographic data as they continuously record information on the population of a country, including their spatial distribution. However, up-to-date registration systems only exist in a small number of countries. Instead, censuses are conducted approximately every 10 years by national statistical offices in order to provide consistent and geo-referenced population data. The accuracy and amount of data supplied by national censuses vary considerably from one country to the other. From a temporal point of view, (at the time of writing) the most recent census is more than 25 years old in some sub-Saharan countries such as Angola, Eritrea and the Demographic Republic of Congo" (Linard et al., 2012)
