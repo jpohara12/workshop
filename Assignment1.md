@@ -16,6 +16,8 @@ Lack of data in low income and developing countries in Sub-Sahara Africa, can cr
 
 Dwyer-Lindgren, L., Cork, M.A., Sligar, A. *et al.* Mapping HIV prevalence in sub-Saharan Africa between 2000 and 2017. *Nature* **570,** 189–193 (2019).https://doi.org/10.1038/s41586-019-1200-9
 
+Overview of HIV in Sub-Saharan Africa, and machine learning with micro cenenus data.
+
 ​      The human immunodeficiency virus (HIV) is the leading cause of disease burden in Sub-Saharan Africa. HIV is also one of the leading causes of morbidity and mortality in Sub-Saharan Africa. Even with recent increases in antiretroviral therapy (ART), a lifelong treatment that has been successful at managed the disease, 60% of eastern and central Africans with HIV are not receiving treatment. Thus, showing how this is a huge healthcare problem with a need to allocate resources where they are needed the most. The Sustainable Development Goal 3 states the goal of “Ensuring healthy lives and promote well-being for all at all ages.” Thus, this HIV epidemic can be a focus of succeeding in this goal. In route to solve this goal they use the method of disease burden estimation to allow for the allocation of resources to allow for human development. Through the lenses of Amartya Sen’s view of human development, he says that it is the enhancement of freedoms to lead lives people have a reason to value. This is applicable to how the HIV epidemic leads people to live lives with limited freedoms and a lower value of life. 
 
 ​      Using data from the 134 surveys in 41 countries, clinical data, and micro census they were able to adapt and use machine learning estimated information, to put together a 5km x 5km map to give a geospatial view of the prevalence of HIV in the Sub-Saharan Africa region.  These surveys having Global Position System coordinates that allows for easier graphing. These maps developed using Carto, which is an easy to use GIS software in raster files. This data also being generated to show first subdivisions of countries and second subdivision data.  Thus, this is a bottom up approach of trying to use small datasets combined with geospatial data to . This could be used in my research to show how data can be manipulated into an easily to read format to show the burden of HIV in the Sub-Saharan region. 
@@ -25,6 +27,8 @@ Dwyer-Lindgren, L., Cork, M.A., Sligar, A. *et al.* Mapping HIV prevalence in su
 **Source [2]** 
 
 Boyda, D. C., Holzman, S. B., Berman, A., Grabowski, M. K., & Chang, L. W. (2019). Geographic Information Systems, spatial analysis, and HIV in Africa: A scoping review. *PloS one*, *14*(5), e0216388. https://doi.org/10.1371/journal.pone.0216388
+
+Reasons to why HIV is so prevelant and use of GIS system for spatial analysis
 
  Sub-Saharan Africa is home to the majority of HIV cases.  This is due to the lack of healthcare, contraceptives, and availability to treatment.  This looks article looks to fulfill The Sustainable Development Goal 3 also by promoting health with the goal of finding ways to ease the process of dispersion of health services.  In a study to figure out the extent of the use of GIS and spatial analysis, researchers went through and looked at all the articles posted about the use of HIV.  As GIS is new tool that is quickly being implemented to be able to solve problems. 
 
@@ -44,6 +48,8 @@ GIS data has been used for 3 main reasons,  thus for characterizing geographic d
 
 Cuadros, D.F., Li, J., Branscum, A.J. *et al.* Mapping the spatial variability of HIV infection in Sub-Saharan Africa: Effective information for localized HIV prevention and control. *Sci Rep* **7,** 9093 (2017). https://doi.org/10.1038/s41598-017-09464-y
 
+Reason to why datasets can be misleading, out of data, and misrepersenting the problem 
+
  **Quote:** "Under the premise that in a resource-constrained environment such as Sub-Saharan Africa it is not possible to do everything, to everyone, everywhere, detailed geographical knowledge about the HIV epidemic becomes essential to tailor programmatic responses to specific local needs." (Cuadros et.al, 2017)
 
 The quote mentions how Sub-Saharan Africa is a resource constrained area.  Those mentioning how most of it is not developing or in the process of developing.  With the states that a lot of the countries are in right now, it makes it hard for government or researchers to gather information in a uniform fashion.  Thus showing how much they have to rely on geospatial data and bottom-up processing to be able to fill gaps that they are missing.  This can be used to show how data science and machine learning are necessary for this process of development. 
@@ -59,6 +65,8 @@ Even though this maps produced between geospatial data being combined with machi
 **Source [4]** 
 
 Kalipeni, E., & Zulu, L. (2008). Using GIS to Model and Forecast HIV/AIDS Rates in Africa, 1986-2010. *Professional Geographer*, *60*(1), 33–53. https://doi.org/10.1080/00330120701724061
+
+Usage of EPP software package for projection, and Use of IDW Algorithm and Kriging Method.
 
 **Quote:** "In this article we draw on the power of geographic information systems (GIS) to examine the progression of HIV/AIDS in Africa for the period from 1986 to 2003. We use GIS for two purposes: (1) to transform and interpolate a set of annual point-based HIV/AIDS rates into area data; and (2) to extract or “mine” annual HIV/AIDS prevalence rates from the interpolated area (country) level maps. Once the rates are extracted from the GIS analysis we then model and forecast them into the near future (i.e., 2004–2010) by using the UNAIDS Estimation and Projection Package (EPP) software" (Kalipeni et al., 2008)
 
