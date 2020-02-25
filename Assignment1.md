@@ -12,8 +12,7 @@ Lack of data in low income and developing countries in Sub-Sahara Africa, can cr
 
 #### Annotated Bibliography 
 
-Dwyer-Lindgren, L., Cork, M.A., Sligar, A. *et al.* Mapping HIV prevalence in sub-Saharan Africa between 2000 and 2017. *Nature* **570,** 189–193 (2019). [https://doi.org/10.1038/s41586-019-1200-9 ]
-(https://doi.org/10.1038/s41586-019-1200-9)
+Dwyer-Lindgren, L., Cork, M.A., Sligar, A. *et al.* Mapping HIV prevalence in sub-Saharan Africa between 2000 and 2017. *Nature* **570,** 189–193 (2019).https://doi.org/10.1038/s41586-019-1200-9
 
 ​      The human immunodeficiency virus (HIV) is the leading cause of disease burden in Sub-Saharan Africa. HIV is also one of the leading causes of morbidity and mortality in Sub-Saharan Africa. Even with recent increases in antiretroviral therapy (ART), a lifelong treatment that has been successful at managed the disease, 60% of eastern and central Africans with HIV are not receiving treatment. Thus, showing how this is a huge healthcare problem with a need to allocate resources where they are needed the most. The Sustainable Development Goal 3 states the goal of “Ensuring healthy lives and promote well-being for all at all ages.” Thus, this HIV epidemic can be a focus of succeeding in this goal. In route to solve this goal they use the method of disease burden estimation to allow for the allocation of resources to allow for human development. Through the lenses of Amartya Sen’s view of human development, he says that it is the enhancement of freedoms to lead lives people have a reason to value. This is applicable to how the HIV epidemic leads people to live lives with limited freedoms and a lower value of life. 
 
