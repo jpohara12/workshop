@@ -20,7 +20,8 @@ John O'Hara
 1. [Annotated Bibliography](https://jpohara12.github.io/workshop/Assignment1)
 
 - Problem Statement:  
-Lack of data in low income and developing countries in Sub-Sahara Africa, can create problems with the allocation of resources to fight diseases such as HIV.  With over one million children and adults dying from HIV, and another 20 plus million living with the burden of HIV. 
+Human Immunodeficiency Virus (HIV) is the leading cause of disease burden in Sub-Saharan Africa.  As a leading cause of morbidity and mortality it has turned into an epidemic. With machine learning techniques epidemiologist has been able to take an technological advanced method to combat this problem. Yet, lack of data in low income and developing countries in Sub-Sahara Africa, can create gaps and problems for the allocation of resources. 
+
     - Harms
     - Significance of those harms
     - Inherenet nature of the problem
