@@ -23,9 +23,9 @@ John O'Hara
 - Problem Statement:  
 Human Immunodeficiency Virus (HIV) is the leading cause of disease burden in Sub-Saharan Africa.  As a leading cause of morbidity and mortality it has turned into an epidemic. With machine learning techniques epidemiologist has been able to take an technological advanced method to combat this problem. Yet, lack of data in low income and developing countries in Sub-Sahara Africa, can create gaps and problems for the allocation of resources. 
 
-    - Harms
-    - Significance of those harms
-    - Inherenet nature of the problem
+    - Harms: 
+                High Rates of Morbility and Mortality  
+  
     
   - Sub-Saharan Africa 
   
