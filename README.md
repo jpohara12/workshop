@@ -8,7 +8,7 @@ John O'Hara
 
 2. [Jahan / Rosling Response](https://jpohara12.github.io/workshop/Jahan)
 
-3. [Anderson Response](https://jpohara12.github.io/workshop/Anderson.md)
+3. [Anderson Response](https://jpohara12.github.io/workshop/Anderson)
 
 
 ## Project
