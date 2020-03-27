@@ -10,7 +10,7 @@ John O'Hara
 
 3. [Anderson Response](https://jpohara12.github.io/workshop/Anderson) (Feb. 29)
 
-4. [Stevens Response](https://jpohara12.github.io/workshop/stevens)
+4. [Stevens Response](https://jpohara12.github.io/workshop/Stevens)
 
 ## Project
 
