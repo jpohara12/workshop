@@ -1,11 +1,5 @@
 ##### **Geospatial Data Science Methods for improved estimation of HIV throughout sub-Sahran Africa**
 
-p align="center">
-  <b##### >**Geospatial Data Science Methods for improved estimation of HIV throughout sub-Sahran Africa**</a>
-  <a href="#">John O'Hara</a> |
-  <a href="#">April 2, 2020</a>
-</p>
-
 **Introduction:**
 
 The purpose of this research is to advance the use of geographic information system (GIS) mapping to produce a burden of disease map by estimating and validating the use of Bayesian spatiotemporal methods compared to the use of Kriging method and Inverse Distance Weighted (IDW) algorithm.  To achieve this research goal of allowing for more accurate models will increase the effectiveness of combating the spread of the Human Immunodeficiency Virus (HIV).  I will achieve this goal through the following objectives. 
