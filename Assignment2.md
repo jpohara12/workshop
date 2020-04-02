@@ -1,6 +1,10 @@
 ##### **Geospatial Data Science Methods for improved estimation of HIV throughout sub-Sahran Africa**
 
-
+p align="center">
+  <b##### >**Geospatial Data Science Methods for improved estimation of HIV throughout sub-Sahran Africa**</a>
+  <a href="#">John O'Hara</a> |
+  <a href="#">April 2, 2020</a>
+</p>
 
 **Introduction:**
 
