@@ -64,7 +64,10 @@ Their conclusions help allow for better clarification of the next steps of comba
 
 As I continue my research on how to modify and add assisting measure to these geospatial methods. I look to see how to add machine learning techniques paired with better data that will allow combating the widespread disease in the sub-Saharan Africa region.  As said by *Joshua Blumenstock*, "New sources of data should complement, not replace, old sources"(2018).  Using his famous quote,  I propose the question: 
 
-How do you included data of high transmission social groups in the study of HIV in sub-Saharan Africa? 
+How do you make sure of the inclusion of data of high transmission social groups in the study of HIV in sub-Saharan Africa? 
+
+
+
 
 
 
