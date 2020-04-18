@@ -37,3 +37,7 @@ Human Immunodeficiency Virus (HIV) is the leading cause of disease burden in Sub
   
   
 2. [Literature Review ](https://jpohara12.github.io/workshop/Assignment2)
+
+
+3. [Methodology Investigation](https://jpohara12.github.io/workshop/Assignment3)
+
