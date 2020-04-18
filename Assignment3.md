@@ -34,9 +34,13 @@ There have been many different data science methods that have been applied to be
 
 First up is the Inverse Distance Weighted (IDW) algorithm.  In research done by *Zulu et al*., they used the IDW method to look at spatial variation of HIV and extract HIV prevalence to be able to predict prevalence for the future.  The basic IDW equation is that of:
 
-$$ x^*=\frac{w_1x_1+w_2x_2+...+w_nx_n}{w_1+w_2+...+w_n}$$
+$$
+x^*=\frac{w_1x_1+w_2x_2+...+w_nx_n}{w_1+w_2+...+w_n}
+$$
 
-$$ w_i= \frac{1}{d^p_{ix*}} $$ 
+$$
+w_i= \frac{1}{d^p_{ix*}}
+$$ 
 
 In the first equation,  x* is the unknown value, w is the weight,  and x is the known point.  The weight has an inverse distance of a point from each of the given known point values. The weight of each point is determined in the second equation.  In that equation, a P variable is that which is a power.  The lower the P value the higher weight it will obtain and vice versa.   d is the distance from the known given point.  This interpolation technique is used to estimate values that have other known values around it allowing for them to be able to "weigh in" on the prediction. 
 
@@ -57,6 +61,7 @@ In research done by *Dwyer-Lindgren et al*.,  they focused on trying to map the 
 - prevalence of multiple partners 
 
 Stacking these generalized/regression covariate models allows for prediction methods to increase in validity.   The use of these covariate allows for the regression/distance decay of HIV prevalence in measured areas to be established in unmeasured areas at a higher reliability.  These covariate weights allow for the mapping on top of different geospatial covariates too.  To model they used, used the spatially and temporally linear mixed effect model
+
 $$
 {Y}_{i,t}\sim {\rm{b}}{\rm{i}}{\rm{n}}{\rm{o}}{\rm{m}}{\rm{i}}{\rm{a}}{\rm{l}}({p}_{i,t},{N}_{i,t})
 $$
