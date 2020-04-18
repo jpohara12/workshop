@@ -1,6 +1,6 @@
 <div align="center">Geospatial Data Method of Estimation of HIV Burden</div>  
 
-<div align="center"> John O'Hara 	
+<div align="center">John O'Hara</div>
 
 ​    
 
@@ -16,13 +16,13 @@ With most of HIV spreading through sexual intercourse there are some instant kno
 
  My broad research question is that of: 
 
-​	*"How to improve data science methods that are applied in the research of HIV burden in sub-Saharan Africa?"* 
+*"How to improve data science methods that are applied in the research of HIV burden in sub-Saharan Africa?"* 
 
 Through this I am looking into a descriptive inquiry that seeks provide health profiles of inviduadals with HIV, to allow for better allocation of resources to those that are infected.  My sub research questions are that of: 
 
 1. *How can you modify preexisting methods to be able to account for high transmission social groups?* 
 
-    		2.  *Combined with that modifying methods, how can one account for high transmission social groups in datasets?* 
+ 2.  *Combined with that modifying methods, how can one account for high transmission social groups in datasets?* 
 
 These relate to my descriptive inquiry because of their focus on seeking and identifying out individuals that are affect by this disease.  This showing the importance of actually inclusion of the most at risk individuals in the solving of this human development process. 
 
@@ -32,14 +32,11 @@ There have been many different data science methods that have been applied to be
 
 ##### Inverse Distance Weighted (IDW) algorithm 
 
-First up is the Inverse Distance Weighted (IDW) algorithm.  In research done by *Zulu et al*., they used the IDW method to look at spatial variation of HIV and extract HIV prevalence to be able to predict prevalence for the future.  The basic IDW equation is that of: 
-$$
-x^*=\frac{w_1x_1+w_2x_2+...+w_nx_n}{w_1+w_2+...+w_n}
-$$
+First up is the Inverse Distance Weighted (IDW) algorithm.  In research done by *Zulu et al*., they used the IDW method to look at spatial variation of HIV and extract HIV prevalence to be able to predict prevalence for the future.  The basic IDW equation is that of:
 
-$$
-w_i= \frac{1}{d^p_{ix*}}
-$$
+$$ x^*=\frac{w_1x_1+w_2x_2+...+w_nx_n}{w_1+w_2+...+w_n}$$
+
+$$ w_i= \frac{1}{d^p_{ix*}} $$ 
 
 In the first equation,  x* is the unknown value, w is the weight,  and x is the known point.  The weight has an inverse distance of a point from each of the given known point values. The weight of each point is determined in the second equation.  In that equation, a P variable is that which is a power.  The lower the P value the higher weight it will obtain and vice versa.   d is the distance from the known given point.  This interpolation technique is used to estimate values that have other known values around it allowing for them to be able to "weigh in" on the prediction. 
 
@@ -92,11 +89,11 @@ Stacking these generalized/regression covariate models allows for prediction met
 
 ![figure1](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41586-019-1200-9/MediaObjects/41586_2019_1200_Fig1_HTML.png)
 
-​					**Figure 2** shows a raster map with the prevalence rates mapped with that of resolution in ascending order.  From the prevalence of HIV of countries to that of a higher resolution of  5x 5-km grid cells (Dwyer-Lindgren *et al*., 2019).
+**Figure 2** shows a raster map with the prevalence rates mapped with that of resolution in ascending order.  From the prevalence of HIV of countries to that of a higher resolution of  5x 5-km grid cells (Dwyer-Lindgren *et al*., 2019).
 
 ![img](https://media.springernature.com/lw685/springer-static/esm/art%3A10.1038%2Fs41586-019-1200-9/MediaObjects/41586_2019_1200_Fig7_ESM.jpg)
 
-​				**Figure 3** is a raster map that expresses uncertainty against that of HIV prevalence in sub-Saharan Africa of the research that was conducted. This can be useful for further research focused on decreasing uncertainty in the areas of high uncertainty. This can be evident in countries with out of date or incomplete datasets (Dwyer-Lindgren *et al*., 2019).
+**Figure 3** is a raster map that expresses uncertainty against that of HIV prevalence in sub-Saharan Africa of the research that was conducted. This can be useful for further research focused on decreasing uncertainty in the areas of high uncertainty. This can be evident in countries with out of date or incomplete datasets (Dwyer-Lindgren *et al*., 2019).
 
 **Results**
 
