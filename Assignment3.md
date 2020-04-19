@@ -2,7 +2,7 @@
 
 <div align="center">John O'Hara</div>
 
-​    
+
 
 **Introduction** 
 
@@ -33,6 +33,9 @@ There have been many different data science methods that have been applied to be
 ##### Inverse Distance Weighted (IDW) algorithm 
 
 First up is the Inverse Distance Weighted (IDW) algorithm.  In research done by *Zulu et al*., they used the IDW method to look at spatial variation of HIV and extract HIV prevalence to be able to predict prevalence for the future.  The basic IDW equation is that of:
+
+
+
 
 $$x^*=\frac{w_1x_1+w_2x_2+...+w_nx_n}{w_1+w_2+...+w_n}$$ 
 
