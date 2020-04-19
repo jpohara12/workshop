@@ -34,23 +34,13 @@ There have been many different data science methods that have been applied to be
 
 First up is the Inverse Distance Weighted (IDW) algorithm.  In research done by *Zulu et al*., they used the IDW method to look at spatial variation of HIV and extract HIV prevalence to be able to predict prevalence for the future.  The basic IDW equation is that of:
 
-
 ![](IDW-Equations.jpg)
-
-$$x^*=\frac{w_1x_1+w_2x_2+...+w_nx_n}{w_1+w_2+...+w_n}$$ 
-
-
-$$
-
-w_i= \frac{1}{d^p_{ix*}}
-
-$$ 
 
 In the first equation,  x* is the unknown value, w is the weight,  and x is the known point.  The weight has an inverse distance of a point from each of the given known point values. The weight of each point is determined in the second equation.  In that equation, a P variable is that which is a power.  The lower the P value the higher weight it will obtain and vice versa.   d is the distance from the known given point.  This interpolation technique is used to estimate values that have other known values around it allowing for them to be able to "weigh in" on the prediction. 
 
 Using a data set from that the United States Census Bureau, researchers inputted the data into the method.  Using the IDW to calculate the weight of influence that each measured point had on locally unmeasured locations.  Assigning more weight to measured values that are closest and lesser weight to measured values that are farther away.  The IDW uses a cross-validation that reflects an optimal power value (p) that gives the lowest root mean square prediction error.  After doing many iterations they settled on that of 12 measured points around the prediction point, with a resolution of 1 km.  This bottom up approach is seen as successful in predicting unmeasured locations, as well as predicting the future with data from previous years.  They were able to estimate well in data rich countries but in countries that were filled with poverty were seen with more uncertainty. 
 
-![image-20200417105743331](C:\Users\Johnt\AppData\Roaming\Typora\typora-user-images\image-20200417105743331.png)
+![](image-20200417105743331.png)
 
 **Figure 1** shows that of the surveillance data points that were used in the research.  This vector map shows the distribution of those data points (Zulu et al., 2014) 
 
