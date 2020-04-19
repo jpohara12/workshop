@@ -56,7 +56,7 @@ In research done by *Dwyer-Lindgren et al*.,  they focused on trying to map the 
 
 Stacking these generalized/regression covariate models allows for prediction methods to increase in validity.   The use of these covariate allows for the regression/distance decay of HIV prevalence in measured areas to be established in unmeasured areas at a higher reliability.  These covariate weights allow for the mapping on top of different geospatial covariates too.  To model they used, used the spatially and temporally linear mixed effect model
 
-![](Bayesian-equations.jpg)
+![](Bayesian-Equations.jpg)
 
 Y standing for positive sample of HIV while N stands for the sample, with i as location, and t as the year. The covariance functions can be to seen in the summation of space, and that of time.  Also that of U is modeled as Gaussian process, which is modeled by that of a bell shaped curve. 
 
