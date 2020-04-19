@@ -40,7 +40,7 @@ In the first equation,  x* is the unknown value, w is the weight,  and x is the 
 
 Using a data set from that the United States Census Bureau, researchers inputted the data into the method.  Using the IDW to calculate the weight of influence that each measured point had on locally unmeasured locations.  Assigning more weight to measured values that are closest and lesser weight to measured values that are farther away.  The IDW uses a cross-validation that reflects an optimal power value (p) that gives the lowest root mean square prediction error.  After doing many iterations they settled on that of 12 measured points around the prediction point, with a resolution of 1 km.  This bottom up approach is seen as successful in predicting unmeasured locations, as well as predicting the future with data from previous years.  They were able to estimate well in data rich countries but in countries that were filled with poverty were seen with more uncertainty. 
 
-![](image-20200417105743331.png)
+![](Vector-Map.jpg)
 
 **Figure 1** shows that of the surveillance data points that were used in the research.  This vector map shows the distribution of those data points (Zulu et al., 2014) 
 
@@ -56,29 +56,7 @@ In research done by *Dwyer-Lindgren et al*.,  they focused on trying to map the 
 
 Stacking these generalized/regression covariate models allows for prediction methods to increase in validity.   The use of these covariate allows for the regression/distance decay of HIV prevalence in measured areas to be established in unmeasured areas at a higher reliability.  These covariate weights allow for the mapping on top of different geospatial covariates too.  To model they used, used the spatially and temporally linear mixed effect model
 
-$$
-{Y}_{i,t}\sim {\rm{b}}{\rm{i}}{\rm{n}}{\rm{o}}{\rm{m}}{\rm{i}}{\rm{a}}{\rm{l}}({p}_{i,t},{N}_{i,t})
-$$
-
-$$
-{\rm{logit}}\left({p}_{i,t}\right)=\;{\beta }_{0}+\;{{\boldsymbol{\beta }}}_{1}{{\boldsymbol{X}}}_{i,t}+{\gamma }_{c\left[i\right]}+\;{Z}_{i,t}+\;{\epsilon }_{i,t}+({\beta }_{2}+\;{U}_{i}){I}_{{\rm{ANC}}}
-$$
-
-$$
-{\gamma }_{c[i]}\sim {\rm{n}}{\rm{o}}{\rm{r}}{\rm{m}}{\rm{a}}{\rm{l}}(0,\,{\sigma }_{{\rm{c}}{\rm{o}}{\rm{u}}{\rm{n}}{\rm{t}}{\rm{r}}{\rm{y}}}^{2})
-$$
-
-$$
-{Z}_{i,t}\sim {\rm{G}}{\rm{P}}(0,\,{{\rm{\Sigma }}}_{{\rm{s}}{\rm{p}}{\rm{a}}{\rm{c}}{\rm{e}}}\otimes \,{{\rm{\Sigma }}}_{{\rm{t}}{\rm{i}}{\rm{m}}{\rm{e}}})
-$$
-
-$$
-{\epsilon }_{i,t}\sim {\rm{n}}{\rm{o}}{\rm{r}}{\rm{m}}{\rm{a}}{\rm{l}}(0,\,{\sigma }_{{\rm{n}}{\rm{u}}{\rm{g}}{\rm{g}}{\rm{e}}{\rm{t}}}^{2})
-$$
-
-$$
-{U}_{i}\sim {\rm{G}}{\rm{P}}(0,\,{{\rm{\Sigma }}}_{{\rm{s}}{\rm{p}}{\rm{a}}{\rm{c}}{\rm{e}}})
-$$
+![](Bayesian-Equations)
 
 Y standing for positive sample of HIV while N stands for the sample, with i as location, and t as the year. The covariance functions can be to seen in the summation of space, and that of time.  Also that of U is modeled as Gaussian process, which is modeled by that of a bell shaped curve. 
 
