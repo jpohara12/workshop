@@ -17,7 +17,7 @@ John O'Hara
 
 ## In Class Essay
 
-1. [In class essay #2](https://jpohara12.github.io/workshop/inclassessay) 
+1. [In class essay #2](https://jpohara12.github.io/workshop/Inclassessay) 
 
 ## Formal Assignment
 
