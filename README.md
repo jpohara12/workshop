@@ -15,9 +15,9 @@ John O'Hara
 5. [Nieves Response](https://jpohara12.github.io/workshop/Nieves) 
 
 
-## Project
+## In Class Essay
 
-1.
+1. [In class essay #2](https://jpohara12.github.io/workshop/inclassessay) 
 
 ## Formal Assignment
 
