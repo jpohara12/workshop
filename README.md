@@ -59,4 +59,6 @@ Human Immunodeficiency Virus (HIV) is the leading cause of disease burden in Sub
                   2a. What ways can updated and more accurate be collected to account for high transmission social groups?  
                   2b. What ways will allow for updated and more accurate data on areas with higher uncertainty? 
         
+## Projects 
 
+1. [Abstract](https://jpohara.github.io/workshop/abstract) 
